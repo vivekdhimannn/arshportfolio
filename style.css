@@ -71,7 +71,7 @@ nav {
 
 /* -- Home Jumbotron -- */
 .jumbotorn {
-  background: url("/arshportfolio/assets/4689415.png") no-repeat center center fixed;
+  background: url("/assets/4689415.png") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -125,7 +125,7 @@ main .btn:hover {
 
 /* -- Portfolio Section -- */
 .portfolio {
-  background: url("/arshportfolio/assets/4689415.png") no-repeat center center;
+  background: url("/assets/4689415.png") no-repeat center center;
   background-size: cover;
   padding-bottom: 30px;
   padding-inline: 1rem;
